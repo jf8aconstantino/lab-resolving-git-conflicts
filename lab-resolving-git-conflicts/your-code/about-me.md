@@ -1,3 +1,4 @@
+
 I am Jorge Ochoa
 I am From Tuxtla Gtz Chiapas, but I have lived in Monterrey the last 8 years
 I am automation Engineer and currently I work at projects/maintenance department at a manufacturing plant
@@ -9,7 +10,7 @@ I'd like to learn python codification, of course all the tools that helps to kno
 
 After completing bootcamp, i'd like to start working as data analyst whether to be in the same company where I currently work or another one
 
-I look forward to be transfered to data analysis or ML crew at my current company or to be hired by a global company with DA, ML and AI projects
+I look forward to be transfered to data analysis or ML team at my current company or to be hired by a global company with DA, ML and AI projects
 
 my future role look like being analysing data, getting insights and giving inputs to improve processes
 My career goal is to be a Project Mgr, and why not to start up a company
